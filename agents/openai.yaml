@@ -1,0 +1,6 @@
+interface:
+  display_name: "Shopee Furniture Pricing"
+  short_description: "Shopee家具控价、货盘和调价复盘"
+  default_prompt: "Use $shopee-furniture-pricing to build a Shopee furniture pricing plan and inventory review workflow."
+policy:
+  allow_implicit_invocation: true
